@@ -1,0 +1,6 @@
+# Entry removed Sat Jan 20 15:44:23 2018
+# Reason: ERROR: BLR_wRa0hXo: YouTube said: Invalid parameters.
+https://youtube.com/watch?v=BLR_wRa0hXo
+
+################################
+
